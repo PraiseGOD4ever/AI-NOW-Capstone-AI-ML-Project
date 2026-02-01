@@ -2,7 +2,7 @@
 
 ---
 
-````markdown
+
 # Insurance Claim Prediction
 
 ## Project Overview
